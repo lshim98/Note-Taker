@@ -22,6 +22,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 * [1. Preview](#preview)
 * [2. Installation](#installation)
 * [3. License](#license)
+* [4. Contact](#contact)
 
 ## Preview
 --------------------------------------------------------------------------------------------------------------------------------------------------
