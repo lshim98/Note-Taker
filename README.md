@@ -23,6 +23,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 * [2. Installation](#installation)
 * [3. License](#license)
 
+## Preview
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Installation
 --------------------------------------------------------------------------------------------------------------------------------------------------
 In order to use the note take app -
@@ -34,10 +38,6 @@ Use Git Bash or the VS terminal to run the following:
 3) Run 'npm i express' to install the express node.js package
 4) Make any updates needed
 5) Deploy to Heroku, if desired
-
-## Screenshot
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## License
 --------------------------------------------------------------------------------------------------------------------------------------------------
