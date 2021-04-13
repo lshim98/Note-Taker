@@ -17,6 +17,12 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
+## Table of Contents
+--------------------------------------------------------------------------------------------------------------------------------------------------
+* [1. Preview](#preview)
+* [2. Installation](#installation)
+* [3. License](#license)
+
 ## Installation
 --------------------------------------------------------------------------------------------------------------------------------------------------
 In order to use the note take app -
