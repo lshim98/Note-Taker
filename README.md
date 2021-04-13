@@ -19,7 +19,15 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Installation
 --------------------------------------------------------------------------------------------------------------------------------------------------
+In order to use the note take app -
 
+Use Git Bash or the VS terminal to run the following:
+
+1) Run 'npm i' to pull down the npm node package manager
+2) Run 'npm init -y' to install package.json
+3) Run 'npm i express' to install the express node.js package
+4) Make any updates needed
+5) Deploy to Heroku, if desired
 
 ## Screenshot
 --------------------------------------------------------------------------------------------------------------------------------------------------
