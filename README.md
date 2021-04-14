@@ -32,6 +32,8 @@ Use Git Bash or the VS terminal to run the following:
 3) Run 'npm i express' to install the express node.js package
 4) Make any updates needed
 5) Deploy to Heroku, if desired
+
+![NotesHome](https://user-images.githubusercontent.com/76062539/114748345-d3ecf180-9d1f-11eb-8481-4413623d4c84.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## License
