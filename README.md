@@ -2,7 +2,7 @@
 
 ## Table of Contents
 --------------------------------------------------------------------------------------------------------------------------------------------------
-* [1. Preview](#preview)
+* [1. User Story](#user story)
 * [2. Installation](#installation)
 * [3. License](#license)
 * [4. Contact](#contact)
@@ -21,10 +21,6 @@ AS A student
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
-
-## Preview
---------------------------------------------------------------------------------------------------------------------------------------------------
-![115276336](https://user-images.githubusercontent.com/76062539/114647010-533fde00-9caa-11eb-8f8b-1d6691aaefc4.png)
 
 ## Installation
 --------------------------------------------------------------------------------------------------------------------------------------------------
